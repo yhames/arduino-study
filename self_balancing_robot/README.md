@@ -8,6 +8,7 @@
     - [아키텍처](#아키텍처)
     - [ERD](#erd)
     - [BOM](#bom)
+    - [BOM](#bom-1)
 
 ## 개발 일정
 
@@ -81,11 +82,15 @@ gantt
 
 ## BOM
 
-|      Part Name      | Description      | Quantity | Unit Price (USD) | Total Price (USD) | Distributor | Purchase URL |
-|:-------------------:|------------------|:--------:|------------------|-------------------|-------------|--------------|
-|  Arduino UNO (R3)   |                  |    1     |                  |                   |             |              |
-|       MPU6050       | Gyroscope Sensor |    1     |                  |                   |             |              |
-|        L298N        | DC motor driver  |    1     |                  |                   |             |              |
-|   DC Motor (12V)    |                  |    2     |                  |                   |             |              |
-|        HC-06        | Bluetooth Module |    1     |                  |                   |             |              |
-| Battery Mount (12V) |                  |    1     |                  |                   |             |              |
+[[밸런싱로봇] BOM.csv](documents%2F%5B%EB%B0%B8%EB%9F%B0%EC%8B%B1%EB%A1%9C%EB%B4%87%5D%20BOM.csv)
+
+## BOM
+
+| 상품번호    | 상품명                                          | 링크                                                         | 패키지 | 라벨 | 제조사     | 단가 (단위:원) | BOM 수량 | 소계 (단위:원) |
+|---------|----------------------------------------------|------------------------------------------------------------|-----|----|---------|-----------|--------|-----------|
+| 34404   | Arduino Uno (R3)                             | [Link](https://www.devicemart.co.kr/goods/view?no=34404)   |     |    | Arduino | 29,000    | 1      | 29,000    |
+| 1278835 | 2A L298 모터드라이버 모듈 (아두이노 호환) [SZH-EK001]      | [Link](https://www.devicemart.co.kr/goods/view?no=1278835) |     |    | SMG     | 1,800     | 1      | 1,800     |
+| 1278220 | 블루투스 직렬포트 모듈 HC-06 (DIP) [SZH-EK010]         | [Link](https://www.devicemart.co.kr/goods/view?no=1278220) |     |    | OEM     | 6,000     | 1      | 6,000     |
+| 1247052 | MPU-6050 6축 자이로 가속도 센서 모듈 GY-521 [SZH-EK007] | [Link](https://www.devicemart.co.kr/goods/view?no=1247052) |     |    | OEM     | 2,200     | 1      | 2,200     |
+| 3090    | AA배터리 건전지홀더 2선 전원타입[8개입]                     | [Link](https://www.devicemart.co.kr/goods/view?no=3090)    |     |    | SMG-A   | 1,800     | 1      | 1,800     |
+| 1329802 | 기어드DC모터 타이어세트 [SZH-GNP194]                   | [Link](https://www.devicemart.co.kr/goods/view?no=1329802) |     |    | SMG     | 23,600    | 2      | 47,200    |
