@@ -13,9 +13,6 @@
 
 > [What Is AUTOSAR?](https://autosartutorials.com/what-is-autosar/)
 
-
-![autosar](images/autosar_simple.webp)
-
 ```mermaid
 gantt
    title Self Balancing Robot
