@@ -39,7 +39,7 @@ gantt
 
 ## H/W 구성도
 
-![hw](images/hw_architecture.svg)
+![hw](images/hw_architecture.png)
 
 ## HSI (Human-System Interface)
 
