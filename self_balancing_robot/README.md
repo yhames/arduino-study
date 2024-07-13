@@ -1,13 +1,13 @@
 # 밸런싱 로봇
 
 - [밸런싱 로봇](#밸런싱-로봇)
-    - [개발 일정](#개발-일정)
-    - [개발 도구](#개발-도구)
-    - [H/W 구성도](#hw-구성도)
-    - [HSI (Human-System Interface)](#hsi-human-system-interface)
-    - [아키텍처](#아키텍처)
-    - [ERD](#erd)
-    - [BOM](#bom)
+  - [개발 일정](#개발-일정)
+  - [개발 도구](#개발-도구)
+  - [H/W 구성도](#hw-구성도)
+  - [HSI (Human-System Interface)](#hsi-human-system-interface)
+  - [아키텍처](#아키텍처)
+  - [ERD](#erd)
+  - [BOM](#bom)
 
 ## 개발 일정
 
@@ -38,6 +38,8 @@ gantt
 |    Fusion 360    |       3D 모델링        |
 
 ## H/W 구성도
+
+![hw](images/hw_architecture.svg)
 
 ## HSI (Human-System Interface)
 
