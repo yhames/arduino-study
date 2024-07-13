@@ -81,11 +81,11 @@ gantt
 
 ## BOM
 
-| Part Name     | Description      | Quantity | Unit Price (USD) | Total Price (USD) | Distributor | Purchase URL |
-|---------------|------------------|----------|------------------|-------------------|-------------|--------------|
-| Arduino UNO   |                  | 1        |                  |                   |             |              |
-| MPU6050       | Gyroscope Sensor | 1        |                  |                   |             |              |
-| L298N         | DC motor driver  | 1        |                  |                   |             |              |
-| DC Motor      | 12V              | 2        |                  |                   |             |              |
-| HC-06         | Bluetooth        | 1        |                  |                   |             |              |
-| Battery Mount | 12V              | 1        |                  |                   |             |              |
+| Part Name          | Description      | Quantity | Unit Price (USD) | Total Price (USD) | Distributor | Purchase URL |
+|--------------------|------------------|----------|------------------|-------------------|-------------|--------------|
+| Arduino UNO        |                  | 1        |                  |                   |             |              |
+| MPU6050            | Gyroscope Sensor | 1        |                  |                   |             |              |
+| L298N              | DC motor driver  | 1        |                  |                   |             |              |
+| DC Motor(12V)      |                  | 2        |                  |                   |             |              |
+| HC-06              | Bluetooth Module | 1        |                  |                   |             |              |
+| Battery Mount(12V) |                  | 1        |                  |                   |             |              |
