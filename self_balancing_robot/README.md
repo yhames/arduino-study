@@ -1,13 +1,13 @@
 # 밸런싱 로봇
 
 - [밸런싱 로봇](#밸런싱-로봇)
-  - [개발 일정](#개발-일정)
-  - [개발 도구](#개발-도구)
-  - [H/W 구성도](#hw-구성도)
-  - [HSI (Human-System Interface)](#hsi-human-system-interface)
-  - [아키텍처](#아키텍처)
-  - [ERD](#erd)
-  - [BOM](#bom)
+    - [개발 일정](#개발-일정)
+    - [개발 도구](#개발-도구)
+    - [H/W 구성도](#hw-구성도)
+    - [HSI (Human-System Interface)](#hsi-human-system-interface)
+    - [아키텍처](#아키텍처)
+    - [ERD](#erd)
+    - [BOM](#bom)
 
 ## 개발 일정
 
@@ -80,3 +80,12 @@ gantt
 ## ERD
 
 ## BOM
+
+| Part Name     | Description      | Quantity | Unit Price (USD) | Total Price (USD) | Distributor | Purchase URL |
+|---------------|------------------|----------|------------------|-------------------|-------------|--------------|
+| Arduino UNO   |                  | 1        |                  |                   |             |              |
+| MPU6050       | Gyroscope Sensor | 1        |                  |                   |             |              |
+| L298N         | DC motor driver  | 1        |                  |                   |             |              |
+| DC Motor      | 12V              | 2        |                  |                   |             |              |
+| HC-06         | Bluetooth        | 1        |                  |                   |             |              |
+| Battery Mount | 12V              | 1        |                  |                   |             |              |
